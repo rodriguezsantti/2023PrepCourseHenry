@@ -1,2 +1,1 @@
-# 2023PrepCourseHenry
-Este es un repositorio del modulo2 del pre curso de Henry
+Este es un proyecto de prueba de como crear un repositos y clonarlo desde github a mi computadora
